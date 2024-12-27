@@ -1,4 +1,5 @@
 import './assets/main.css'
+import * as bootstrap from 'bootstrap/dist/js/bootstrap.bundle';
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
@@ -10,5 +11,6 @@ const app = createApp(App)
 
 app.use(createPinia())
 app.use(router)
+app.provide('bootstrap', bootstrap);
 
 app.mount('#app')
