@@ -9,8 +9,8 @@
 
 <style scoped>
 .title {
-    /* font-family: 'LeagueGothicSatoshi', Arial, sans-serif; */
-  font-family:Arial, Helvetica, sans-serif;
+    font-family: 'LeagueGothicSatoshi', Arial, sans-serif;
+  /* font-family: 'Times New Roman', Times, serif; */
   color: blue;
 }
 </style>
