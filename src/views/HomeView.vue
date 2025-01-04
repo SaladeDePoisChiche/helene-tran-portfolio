@@ -12,6 +12,10 @@ import ExpericeGallery from '../components/ExperienceGallery.vue';
     <ExpericeGallery expTitle="LOMO" expDates="08-2024" 
     expDescription="Arles c'est une belle ville quand même !" 
     />
+
+    <ExpericeGallery expTitle="JELLY" expDates="08-2024" 
+    expDescription="Arles c'est une belle ville quand même !" 
+    />
   </main>
 </template>
 
